@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**MaxxRider/MaxxRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 my Name is RJ HANIF AHMED 😊
 
 Here are some ideas to get you started:
 
