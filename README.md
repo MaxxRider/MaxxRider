@@ -1,6 +1,6 @@
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-          ❤️My Name is 𝗔𝗗𝗜𝗕 𝗔𝗞𝗛𝗧𝗔𝗕</h2>❤️
+          ❤️My Name is 𝗔𝗗𝗜𝗕 𝗔𝗞𝗛𝗧𝗔𝗕❤️
 
             🔵###TG- MaxxRider🔵
 
