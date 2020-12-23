@@ -1,8 +1,10 @@
+![MAXX DEV](https://telegra.ph/file/ef5ffac421c594d0bab3c.png)
+
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-          ❤️My Name is 𝗔𝗗𝗜𝗕 𝗔𝗞𝗛𝗧𝗔𝗕</h2>❤️
+          ❤️My Name is 𝗔𝗗𝗜𝗕 𝗔𝗞𝗛𝗧𝗔𝗕❤️
 
-            🔵###TG- MaxxRider🔵
+            🔵###TG- @MaxxRider🔵
 
 ➣ 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 :
 (not science student 🙁 
