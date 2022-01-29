@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/welcome.gif"</div>
 <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/cooltext403237630597766.gif"
-<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/about.gif"
-<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/about.gif"
+
+<div align="center">
+<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/about.gif"</div>
 
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
