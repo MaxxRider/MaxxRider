@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/welcome.gif"</div>
+
 ![MAXX DEV](https://telegra.ph/file/ef5ffac421c594d0bab3c.png)
 
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
