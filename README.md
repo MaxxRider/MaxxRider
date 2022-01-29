@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/welcome.gif"</div>
+<img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/cooltext403237630597766.gif"
 
-![MAXX DEV](https://telegra.ph/file/ef5ffac421c594d0bab3c.png)
 
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
