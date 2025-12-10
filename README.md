@@ -7,86 +7,102 @@
 
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-<h1 align="center">⚡ MAXX — Futuristic Developer & Telegram Bot Creator</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F0FF&center=true&vCenter=true&width=650&lines=Telegram+Bot+Developer;Python+Coder+By+Heart;Creating+Automation+For+The+Future;Welcome+To+My+Cyber+Universe+👾" />
-</div>
+ 
+<!-- Futuristic Cyber Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&color=00F0FF&center=true&vCenter=true&width=700&lines=MAXX+%7C+CYBERNETIC+DEVELOPER;TELEGRAM+BOT+ARCHITECT;BUILDING+THE+FUTURE+WITH+CODE+⚡" />
+</h1>
 
----
-
-## 👨‍💻 About Me  
-- 🚀 Developer | Python Enthusiast  
-- 🤖 Telegram Bot Creator (Advanced + Modern Bots)  
-- 📡 I run a Telegram channel with automation tools  
-- 🔥 Loves building fast, futuristic & functional apps  
-- 🎯 Always learning. Always upgrading.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+</p>
 
 ---
 
-## 📡 My Telegram Channel  
-<div align="center">
-
-### 🔗 **Join MAXX BOTS**
-👉 **https://t.me/maxxbots**
-
-![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-
-</div>
+## 🧬 **About Me**
+- 👨‍💻 Full-Stack Developer (Python Focused)
+- 🤖 Telegram Bot Creator | Automation Engineer  
+- ⚡ SCI-FI themed Projects | High-Performance Systems  
+- 🎯 Founder of **MAXX Bots**  
+- 🔥 Living in a world where **code > reality**
 
 ---
 
-## 🛠️ Tech Stack  
-<div align="center">
+## 🛸 **Cyber Social Links**
+<p align="center">
 
-### ⚡ Languages  
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3)
+<a href="https://www.instagram.com/hanif_max">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visual-studio-code)
+<a href="https://x.com/MaxxBots">
+  <img src="https://img.shields.io/badge/Twitter%20(X)-0A0A0A?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-### 🤖 Telegram Bot Frameworks  
-![Pyrogram](https://img.shields.io/badge/Pyrogram-0A0A0A?style=for-the-badge&logo=telegram)
-![Aiogram](https://img.shields.io/badge/Aiogram-0A0A0A?style=for-the-badge)
-![Telebot](https://img.shields.io/badge/Telebot-0A0A0A?style=for-the-badge)
+<a href="https://github.com/MaxxRider">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://t.me/maxxbots">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
----
-
-## 📊 GitHub Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MAXX&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAXX&theme=tokyonight" height="160px" />
-
-</div>
+</p>
 
 ---
 
-## ⚡ Featured Projects  
-- 🤖 **Telegram Auto-Reply Bot** — Smart message handling  
-- 🔐 **SecureLoginX** — Security-focused authentication  
-- 🧠 **AI Auto-Task Bot** — Automated intelligent actions  
-- 🎛️ **Cyber Terminal** — Futuristic command-line interface  
+## ⚙️ **Tech Arsenal**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Pyrogram-000000?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Aiogram-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TeleBot-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-<div align="center">
+## 🛰️ **Profile Activity Dashboard**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxxRider&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxxRider&theme=tokyonight&hide_border=true" height="160px" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram)](https://t.me/maxxbots)  
-[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanif_max?igsh=b2lmdXU5ZG0wOGM1)  
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github)](#)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxxRider&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaxxRider&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 🧩 Fun Quote  
-> *“Automation is the bridge between today and the future — and I build that bridge.”*
+## 🔥 **Animated Cyber-Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧪 **Featured Sci-Fi Projects**
+- ⚡ **CYBER Terminal** — Futuristic CLI  
+- 🤖 **MAXX AutoBot** — AI Driven Telegram Automation  
+- 🔐 **SecureLoginX** — Security & Encryption Suite  
+- 🛡️ **Phantom Firewall** — Intelligent Defense System  
+
+---
+
+## 🧠 **Quote From The Future**
+> *“Machines don’t dream… but developers like me make them dream.”*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaxxRider&style=for-the-badge&color=00F0FF" />
+</p>
