@@ -7,60 +7,86 @@
 
 <h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
           
-            ❤️ I AM MAXX ❤️
+<h1 align="center">⚡ MAXX — Futuristic Developer & Telegram Bot Creator</h1>
 
-            🔵TG- @MaxxRider🔵
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F0FF&center=true&vCenter=true&width=650&lines=Telegram+Bot+Developer;Python+Coder+By+Heart;Creating+Automation+For+The+Future;Welcome+To+My+Cyber+Universe+👾" />
+</div>
 
-➣ 𝑰 𝒂𝒎 𝒂 𝑪𝒐𝒍𝒍𝒆𝒈𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 :
-(not science student 🙁 
-[B.COM] but i love design, 
-modification, coding)
+---
 
-➣ 𝑰’𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 (GitHub)
+## 👨‍💻 About Me  
+- 🚀 Developer | Python Enthusiast  
+- 🤖 Telegram Bot Creator (Advanced + Modern Bots)  
+- 📡 I run a Telegram channel with automation tools  
+- 🔥 Loves building fast, futuristic & functional apps  
+- 🎯 Always learning. Always upgrading.
 
-➣ 𝑳𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓 𝒂 𝒕𝒓𝒖𝒔𝒕𝒆𝒅 𝒑𝒆𝒓𝒔𝒐𝒏 😊
+---
 
-➣ 𝑨𝒔𝒌𝒆𝒅 𝑴𝒆 𝑨𝒃𝒐𝒖𝒕 t.me/MaxxRider
+## 📡 My Telegram Channel  
+<div align="center">
 
-➣ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : Hindi, English, Assamese, Bengali
+### 🔗 **Join MAXX BOTS**
+👉 **https://t.me/maxxbots**
 
-➣𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: I love to watch Cartoon 😄🤩🤩
+![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
 
+</div>
 
-<h1 align="center">Hi 👋, I'm MaxxRider ( ADIB AKHTAB)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxrider&label=Profile%20views&color=0e75b6&style=flat" alt="maxxrider" /> </p>
+## 🛠️ Tech Stack  
+<div align="center">
 
-- 🔭 I’m currently working on [Telegram Bots](https://t.me/MaxxBots)
+### ⚡ Languages  
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3)
 
-- 🌱 I’m currently learning **Python, PHP**
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visual-studio-code)
 
-- 👯 I’m looking to collaborate on **GitHub**
+### 🤖 Telegram Bot Frameworks  
+![Pyrogram](https://img.shields.io/badge/Pyrogram-0A0A0A?style=for-the-badge&logo=telegram)
+![Aiogram](https://img.shields.io/badge/Aiogram-0A0A0A?style=for-the-badge)
+![Telebot](https://img.shields.io/badge/Telebot-0A0A0A?style=for-the-badge)
 
-- 🤝 I’m looking for help with **Making TG Bots for Education Purpose**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MaxxBots](https://github.com/MaxxBots)
+---
 
-- 📝 I regularly active on [https://telegram.dog/MaxxBotChat](https://telegram.dog/MaxxBotChat)
+## 📊 GitHub Stats  
+<div align="center">
 
-- 💬 Ask me about **👲😁😁😁**
+<img src="https://github-readme-stats.vercel.app/api?username=MAXX&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAXX&theme=tokyonight" height="160px" />
 
-- 📫 How to reach me **https://Telegram.dog/MaxxRiderz**
+</div>
 
-- 📄 Am i pro Developer? [Nope! Completely noob 😰 But I love myself 😂 coz i know about my experience](Nope! Completely noob 😰 But I love myself 😂 coz i know about my experience)
+---
 
-- ⚡ Fun fact **I like paani puri ? Not masal puri 😂😂**
+## ⚡ Featured Projects  
+- 🤖 **Telegram Auto-Reply Bot** — Smart message handling  
+- 🔐 **SecureLoginX** — Security-focused authentication  
+- 🧠 **AI Auto-Task Bot** — Automated intelligent actions  
+- 🎛️ **Cyber Terminal** — Futuristic command-line interface  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hanif_max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="hanif_max" height="30" width="40" /></a>
-<a href="https://fb.com/adib_akhtab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="adib_akhtab" height="30" width="40" /></a>
-<a href="https://instagram.com/adib_akhtab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="adib_akhtab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maxx bots official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="maxx bots official" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> </p>
+## 🌐 Connect With Me  
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxxrider&show_icons=true&locale=en" alt="maxxrider" /></p>
+[![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram)](https://t.me/maxxbots)  
+[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanif_max?igsh=b2lmdXU5ZG0wOGM1)  
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github)](#)
+
+</div>
+
+---
+
+## 🧩 Fun Quote  
+> *“Automation is the bridge between today and the future — and I build that bridge.”*
